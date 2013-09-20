@@ -1,4 +1,4 @@
 garden
 ======
 
-playing with code: various small scripts that don't do anything important but are fun to write
+playing with code: scripts and docs that are fun to write
