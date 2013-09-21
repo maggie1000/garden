@@ -1,4 +1,4 @@
 garden
 ======
 
-playing with code: scripts and docs that are fun to write
+wiki: https://github.com/maggie1000/garden/wiki
